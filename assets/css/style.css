@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* header, nav and hero image */
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -46,9 +48,6 @@ a {
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
-}
 
 .hero {
     height: 800px;
@@ -58,6 +57,8 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+/* main */
 
 main {
     width: 75%;
@@ -78,11 +79,6 @@ article img {
     max-height: 200px;
 }
 
-h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
 .float-left {
     float: left;
     margin-right: 25px;
@@ -92,6 +88,17 @@ h2 {
     float: right;
     margin-left: 25px;
 }
+
+h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+p {
+    font-size: 16px;
+}
+
+/* aside */
 
 aside {
     margin-right: 20px;
@@ -119,6 +126,8 @@ aside img {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* footer */
 
 footer {
     padding: 30px;
