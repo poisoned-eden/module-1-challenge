@@ -33,7 +33,7 @@ My thanks go to
 
 The refactoring of the code was done by me: [Lilith Miller-Fermor](https://github.com/poisoned-eden) 
 
-![GitHub watchers](https://img.shields.io/github/watchers/poisoned-eden/module-1-challenge?style=social)
+![GitHub followers](https://img.shields.io/github/followers/poisoned-eden?style=social)
 
 ## License
 I have chosen the MIT license.  If anything I have done here is useful to you, please feel free to use it.
