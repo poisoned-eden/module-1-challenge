@@ -65,7 +65,7 @@ main {
     margin-left: 20px;
 }
 
-section {
+article {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -74,7 +74,7 @@ section {
     color: #ffffff;
 }
 
-section img {
+article img {
     max-height: 200px;
 }
 
@@ -104,7 +104,7 @@ aside {
     background-color: #2589bd;
 }
 
-aside div {
+aside section {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -120,13 +120,13 @@ aside img {
     max-width: 150px;
 }
 
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
